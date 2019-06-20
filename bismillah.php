@@ -1,5 +1,5 @@
 <?php
-	$x = "Hello!"; //deklarasi variable x
+	$x = "Hello jodoh!"; //deklarasi variable x
 	
 	
 	
